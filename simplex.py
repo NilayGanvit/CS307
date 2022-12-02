@@ -1,7 +1,7 @@
 import numpy as np
 import math
 
-#lab7
+
 c = [-4, -2, 0, 0]
 A = [
     [1, 1, 1, 0],
